@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`QuoteService find should find one quote 1`] = `
+{
+  "_id": "123",
+  "description": "description",
+  "isin": "123",
+}
+`;
